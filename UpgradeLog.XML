@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Example">
+</Property><Property Name="Solution File" Value="D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Example.sln">
+</Property><Property Name="User Options File" Value="D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Example.suo">
+</Property><Property Name="Date" Value="Monday, October 15, 2012">
+</Property><Property Name="Time" Value="17:55 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Example.sln" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Example.suo" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example.suo">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Example.csproj" Description="Project file successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Example.csproj">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Form1.cs" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Form1.Designer.cs" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Program.cs" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Program.cs">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Properties\Settings.settings" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Form1.resx" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Properties\Resources.resx" Description="File successfully backed up as D:\Kill2you\Quan_Trong\LT Windows C#\BT_LTWindows_C#\Lab_LTWindows_C#_2012\Lab1\Example\Backup\Example\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Example.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Example" Source="Example\Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Example.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Example.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example\Example.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

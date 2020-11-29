@@ -1,0 +1,9 @@
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\bin\Debug\Example.exe
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\bin\Debug\Example.pdb
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\obj\Debug\Example.Form1.resources
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\obj\Debug\Example.Properties.Resources.resources
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\obj\Debug\Example.csproj.GenerateResource.cache
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\obj\Debug\Example.exe
+D:\Tailieu\Source code_THLTHDT\Lab 3\Example\Example\obj\Debug\Example.pdb
